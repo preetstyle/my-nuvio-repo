@@ -2,8 +2,17 @@
   {
     "id": "atishmkv3",
     "name": "AtishMKV3 Scraper",
-    "filename": "atish.js",
+    "description": "Direct streams for AtishMKV3",
+    "version": "1.0.0",
+    "author": "preetstyle",
     "supportedTypes": ["movie", "tv"],
-    "enabled": true
+    "filename": "providers/atish.js",
+    "enabled": true,
+    "logo": "",
+    "contentLanguage": ["en", "hi"],
+    "formats": ["mp4", "mkv", "m3u8"],
+    "limited": false,
+    "disabledPlatforms": [],
+    "supportsExternalPlayer": true
   }
 ]
