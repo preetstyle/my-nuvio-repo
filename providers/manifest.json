@@ -1,0 +1,9 @@
+[
+  {
+    "id": "atishmkv3",
+    "name": "AtishMKV3 Scraper",
+    "filename": "atish.js",
+    "supportedTypes": ["movie", "tv"],
+    "enabled": true
+  }
+]
