@@ -1,16 +1,15 @@
 [
   {
-    "id": "kartoons-me",
-    "name": "Kartoons Scraper",
-    "description": "Direct streams for Cartoons",
+    "id": "preets-first-plugin",
+    "name": "Preet's Test Plugin",
+    "description": "My very first working Nuvio plugin",
     "version": "1.0.0",
     "author": "preetstyle",
     "supportedTypes": ["movie", "tv"],
-    "filename": "providers/kartoons.js",
+    "filename": "providers/myfirstplugin.js",
     "enabled": true,
-    "logo": "",
     "contentLanguage": ["en"],
-    "formats": ["mp4", "mkv", "m3u8"],
+    "formats": ["mp4"],
     "limited": false,
     "disabledPlatforms": [],
     "supportsExternalPlayer": true
