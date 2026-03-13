@@ -1,8 +1,8 @@
 [
   {
     "id": "kartoons-me",
-    "name": "Kartoons.me Scraper",
-    "description": "Direct streams for Cartoons and Anime",
+    "name": "Kartoons Scraper",
+    "description": "Direct streams for Cartoons",
     "version": "1.0.0",
     "author": "preetstyle",
     "supportedTypes": ["movie", "tv"],
