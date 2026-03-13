@@ -6,7 +6,7 @@
     "version": "1.0.0",
     "author": "preetstyle",
     "supportedTypes": ["movie", "tv"],
-    "filename": "providers/kartoons.js",
+    "filename": "kartoons.js",
     "enabled": true,
     "logo": "",
     "contentLanguage": ["en"],
